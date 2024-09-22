@@ -91,3 +91,28 @@ body  {
     border: 3px solid #73AD21;
     padding: 10px;
   }
+  p.one {
+    border-style: solid;
+    border-width: 5px 20px  #ff0000;
+    padding: 10px;
+  }
+  p { 
+    border-width: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+p.one {
+    border-style: solid;
+    border-color: #ff0000;
+    background: #ff0000;
+}
+p.two {
+    border-style: solid;
+    border-color: #ff0000 ;
+    background: #ff0000;
+}
+p.three {
+    border-style: solid;
+    border-color: #ff0000 ;
+    background: #ff0000;
+}

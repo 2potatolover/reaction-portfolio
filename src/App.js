@@ -10,6 +10,9 @@ function App() {
       <button type="button" class="button">Projects</button>
       <button type="button" class="button">Contact Me</button>
       
+      <p class="one"><strong>About Me:</strong></p>
+    <p class="two"><strong>Projects:</strong></p>
+    <p class="three"><strong>Contact Me:</strong> </p>
       </div>
         </>
     </div>
