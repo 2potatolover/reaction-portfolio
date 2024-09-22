@@ -104,6 +104,7 @@ p.one {
     padding: 200px;
     margin: 20px;
     
+    
 }
 p.two {
     border-style: solid;
@@ -122,9 +123,7 @@ p.three {
     margin: 20px;
 }
 .one {
- color: white
- 
- 
+  color: white
 }
 .two {
   color: white
@@ -132,3 +131,6 @@ p.three {
  .three {
   color: white
  }
+ html {
+  scroll-behavior: smooth;
+}
