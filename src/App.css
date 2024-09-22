@@ -100,19 +100,30 @@ p.one {
     border-style: solid;
     border-color: #f72121;
     background: #ff0000;
+    border-width: 12px;
+    padding: 200px;
+    margin: 20px;
+    
 }
 p.two {
     border-style: solid;
     border-color: #f72121 ;
     background: #ff0000;
+    border-width: 12px;
+    padding: 200px;
+    margin: 20px;
 }
 p.three {
     border-style: solid;
     border-color: #f72121 ;
     background: #ff0000;
+    border-width: 12px;
+    padding: 200px;
+    margin: 20px;
 }
 .one {
  color: white
+ 
  
 }
 .two {
